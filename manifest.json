@@ -1,0 +1,11 @@
+{
+  "package": "apro-bridge",
+  "name": "Apro - Bridge",
+  "description": "Bridge between Anki and external applications like CineCard and Synapse.",
+  "version": "1.0",
+  "conflicts": [],
+  "dirs": [
+    "apro-bridge"
+  ],
+  "minimum_anki_version": "2.1.49"
+}
